@@ -20,7 +20,7 @@ This project is an advanced authentication backend built using Node.js and Expre
 ## Setup
 1. **Clone the repository:**
    ```
-    git clone https://github.com/yourusername/advanced-auth-backend.git
+    git clone https://github.com/Hack0333/email_verification
 
    cd advanced-auth-backend
     ```
